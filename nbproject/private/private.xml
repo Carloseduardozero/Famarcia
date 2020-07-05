@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xamapp/htdocs/ProjetoFarmacia/modelDAO/inserir_usuarioBD.php</file>
+            <file>file:/C:/xamapp/htdocs/ProjetoFarmacia/modelDAO/inserir_virusBD.php</file>
+            <file>file:/C:/xamapp/htdocs/ProjetoFarmacia/modelBean/dados_usuario.php</file>
+            <file>file:/C:/xamapp/htdocs/ProjetoFarmacia/modelBean/Medicamento.php</file>
+            <file>file:/C:/xamapp/htdocs/ProjetoFarmacia/modelDAO/inserir_medicamentoBD.php</file>
+            <file>file:/C:/xamapp/htdocs/ProjetoFarmacia/modelBean/Usuario.php</file>
+            <file>file:/C:/xamapp/htdocs/ProjetoFarmacia/modelBean/AcessoUsuario.php</file>
+            <file>file:/C:/xamapp/htdocs/ProjetoFarmacia/modelBean/dados_consulta.php</file>
+            <file>file:/C:/xamapp/htdocs/ProjetoFarmacia/modelBean/Consulta.php</file>
+            <file>file:/C:/xamapp/htdocs/ProjetoFarmacia/modelBean/Paciente.php</file>
+            <file>file:/C:/xamapp/htdocs/ProjetoFarmacia/modelDAO/validar_acessoBD.php</file>
+            <file>file:/C:/xamapp/htdocs/ProjetoFarmacia/modelDAO/Conexao.php</file>
+            <file>file:/C:/xamapp/htdocs/ProjetoFarmacia/modelBean/dados_acesso.php</file>
+            <file>file:/C:/xamapp/htdocs/ProjetoFarmacia/modelDAO/consultaBD.php</file>
+        </group>
+    </open-files>
+</project-private>
